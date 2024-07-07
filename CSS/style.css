@@ -1,0 +1,21 @@
+body {
+    margin: 80px;
+    background-color: rgb(209, 202, 239);
+    
+}
+
+h1 {
+    color: rgba(106, 90, 205,1);
+    font-size: 50px;
+
+}
+
+h2 {
+    color: rgba(106, 90, 205,0.7);
+    font-size: 30px;
+}
+
+.purple {
+    color: rgba(106, 90, 205, 0.6);
+    font-size: 20px;
+}
